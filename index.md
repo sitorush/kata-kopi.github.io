@@ -35,9 +35,9 @@ Full wash, semi wash, natural, honey, wine.
 | Es Kopi Susu Gula Aren  |     | 15k  |
 | Kopi Susu Gula Aren     | 14k |      |
 
-<hr>
-
 ## Espresso Based
+
+<hr>
 
 |  | Hot | Cold |
 |----------|-----|------|
@@ -49,9 +49,9 @@ Full wash, semi wash, natural, honey, wine.
 | Long Black   | 11k | 13k    |
 | Ice Cream Coffee / Affogato   |  | 15k    |
 
-<hr>
-
 ## Non Coffee
+
+<hr>
 
 |              | Hot | Cold |
 |--------------|-----|------|
@@ -65,9 +65,9 @@ Full wash, semi wash, natural, honey, wine.
 | Choco Latte  | 12k | 14k  |
 | Velvet Latte | 14k | 16k  |
 
-<hr>
-
 ## Food / Snacks / Makanan
+
+<hr>
 
 | Nasi Goreng                                         | 12k |
 | Indomie (rebus/goreng)                              | 10k |
@@ -88,5 +88,7 @@ Full wash, semi wash, natural, honey, wine.
 ### Jam buka:
 Senin - Sabtu: buka 09.00, tutup 23.00<br>
 Minggu: buka 16.00, tutup 23.00
+
 <hr>
+
 <address align="center">Jl Hang Tuah (20m dari Bank BNI) Kel. Duri Barat Kec. Mandau - Duri Riau</address>
