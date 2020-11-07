@@ -11,6 +11,7 @@ Full wash, semi wash, natural, honey, wine.
 | Ciwidey   | Papua Wamena   | Flores     |
 | Toraja    | etc.           |            |
 
+
 ### Metode:
 
 |              | Hot | Cold | Milk |
@@ -18,6 +19,7 @@ Full wash, semi wash, natural, honey, wine.
 | V60          | 13k | 15k  | +2k  |
 | Vietnam Drip | 13k | 15k  | +2k  |
 | Tubruk       | 13k | 15k  | +2k  |
+
 
 # KATA KOPI
 
@@ -28,6 +30,7 @@ Full wash, semi wash, natural, honey, wine.
 | Es Kopi Susu            |     | 10k  |
 | Es Kopi Susu Gula Aren  |     | 15k  |
 | Kopi Susu Gula Aren     | 14k |      |
+
 
 ## Espresso Based
 
@@ -40,6 +43,7 @@ Full wash, semi wash, natural, honey, wine.
 | Americano   | 14k | 16k    |
 | Long Black   | 11k | 13k    |
 | Ice Cream Coffee / Affogato   | - | 15k    |
+
 
 ## Non Coffee
 
@@ -54,6 +58,7 @@ Full wash, semi wash, natural, honey, wine.
 | Jeruk Peras  | 10k | 12k  |
 | Choco Latte  | 12k | 14k  |
 | Velvet Latte | 14k | 16k  |
+
 
 ## Food / Snacks / Makanan
 
