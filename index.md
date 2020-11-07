@@ -4,6 +4,7 @@
 Full wash, semi wash, natural, honey, wine.
 
 ### Origin / Asal:
+
 | Aceh Gayo | Kerinci        | Arjuno     |
 |-----------|----------------|------------|
 | Lintong   | Bali Kimtamani | Mandailing |
@@ -11,6 +12,7 @@ Full wash, semi wash, natural, honey, wine.
 | Toraja    | etc.           |            |
 
 ### Metode:
+
 |              | Hot | Cold | Milk |
 |--------------|-----|------|------|
 | V60          | 13k | 15k  | +2k  |
@@ -18,6 +20,7 @@ Full wash, semi wash, natural, honey, wine.
 | Tubruk       | 13k | 15k  | +2k  |
 
 # KATA KOPI
+
 |                         | Hot | Cold |
 |-------------------------|-----|------|
 | Kopi Hitam (V60/Tubruk) | 5k  | 7k   |
@@ -27,6 +30,7 @@ Full wash, semi wash, natural, honey, wine.
 | Kopi Susu Gula Aren     | 14k |      |
 
 ## Espresso Based
+
 |  | Hot | Cold |
 |----------|-----|------|
 | Espresso (_Single_)   | 10k | -    |
@@ -38,6 +42,7 @@ Full wash, semi wash, natural, honey, wine.
 | Ice Cream Coffee / Affogato   | - | 15k    |
 
 ## Non Coffee
+
 |              | Hot | Cold |
 |--------------|-----|------|
 | Teh Manis    | 6k  | 7k   |
@@ -51,6 +56,7 @@ Full wash, semi wash, natural, honey, wine.
 | Velvet Latte | 14k | 16k  |
 
 ## Food / Snacks / Makanan
+
 | Nasi Goreng                                         | 12k |
 |-----------------------------------------------------|-----|
 | Indomie (rebus/goreng)                              | 10k |
