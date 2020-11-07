@@ -1,7 +1,7 @@
 # Single Origin
 
 ### Process: 
-Full wash, semi wash, natural, honey, wine
+Full wash, semi wash, natural, honey, wine.
 
 ### Origin / Asal:
 | Aceh Gayo | Kerinci        | Arjuno     |
