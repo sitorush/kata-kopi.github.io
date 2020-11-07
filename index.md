@@ -1,5 +1,7 @@
 # Menu
 
+<hr>
+
 ## Single Origin
 
 ### Process:
@@ -76,9 +78,9 @@ Full wash, semi wash, natural, honey, wine.
 | coklat, srikaya, kacang, stroberry, blueberry, keju | 8k  |
 | coklat + keju                                       | 10k |
 | selai double                                        | 10k |
-
+<hr>
 ### Jam buka:
 Senin - Sabtu: buka 09.00, tutup 23.00<br>
 Minggu: buka 16.00, tutup 23.00
-
+<hr>
 <address align="center">Jl Hang Tuah (20m dari Bank BNI) Kel. Duri Barat Kec. Mandau - Duri Riau</address>
