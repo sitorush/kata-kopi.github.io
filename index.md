@@ -75,5 +75,8 @@ Full wash, semi wash, natural, honey, wine.
 | coklat + keju                                       | 10k |
 | selai double                                        | 10k |
 
+####Jam buka:
+Senin - Sabtu: buka 09.00, tutup 23.00
+Minggu: buka 16.00, tutup 23.00
 
 <address align="center">Jl Hang Tuah (20m dari Bank BNI) Kel. Duri Barat Kec. Mandau - Duri Riau</address>
