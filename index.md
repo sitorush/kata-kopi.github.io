@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## Espresso Based
 
-You can use the [editor on GitHub](https://github.com/sitorush/katakopi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+|  | Hot | Cold |
+|----------|-----|------|
+| Espresso (_Single_)   | 10k | -    |
+| Espresso (_Double_)   | 12k | -    |
+| Cappuccino   | 14k | 16k    |
+| Caffe Latte   | 14k | 16k    |
+| Americano   | 14k | 16k    |
+| Long Black   | 11k | 13k    |
+| Ice Cream Coffee / Affogato   | - | 15k    |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Non Coffee
 
-### Markdown
+|              | Hot | Cold |
+|--------------|-----|------|
+| Teh Manis    | 6k  | 7k   |
+| Teh Susu     | 7k  | 9k   |
+| Teh Tawar    | 4k  | 6k   |
+| Green Tea    | 7k  | 9k   |
+| Lemon        | 9k  | 11k  |
+| Lemon Tea    | 10k | 12k  |
+| Jeruk Peras  | 10k | 12k  |
+| Choco Latte  | 12k | 14k  |
+| Velvet Latte | 14k | 16k  |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Food / Snacks / Makanan
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sitorush/katakopi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Nasi Goreng                                         | 12k |
+|-----------------------------------------------------|-----|
+| Indomie (rebus/goreng)                              | 10k |
+| Ubi Goreng (ubi jalar/ubi kayu)                     | 8k  |
+| Kentang Goreng                                      | 8k  |
+| Sosis                                               | 8k  |
+| Nugget                                              | 8k  |
+| Pisang Goreng                                       | 8k  |
+| Pisang Saus Coklat                                  | 8k  |
+| Lumpia Goreng                                       | 10k |
+| Roti Bakar                                          |     |
+| coklat, srikaya, kacang, stroberry, blueberry, keju | 8k  |
+| coklat + keju                                       | 10k |
+| selai double                                        | 10k |
