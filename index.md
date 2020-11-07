@@ -6,7 +6,6 @@ Full wash, semi wash, natural, honey, wine.
 ### Origin / Asal:
 
 | Aceh Gayo | Kerinci        | Arjuno     |
-|-----------|----------------|------------|
 | Lintong   | Bali Kimtamani | Mandailing |
 | Ciwidey   | Papua Wamena   | Flores     |
 | Toraja    | etc.           |            |
@@ -63,7 +62,6 @@ Full wash, semi wash, natural, honey, wine.
 ## Food / Snacks / Makanan
 
 | Nasi Goreng                                         | 12k |
-|-----------------------------------------------------|-----|
 | Indomie (rebus/goreng)                              | 10k |
 | Ubi Goreng (ubi jalar/ubi kayu)                     | 8k  |
 | Kentang Goreng                                      | 8k  |
