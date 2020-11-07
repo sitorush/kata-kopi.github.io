@@ -1,5 +1,29 @@
-## Espresso Based
+# Single Origin
+### Process: 
+Full wash, semi wash, natural, honey, wine
+### Origin / Asal:
+| Aceh Gayo | Kerinci        | Arjuno     |
+|-----------|----------------|------------|
+| Lintong   | Bali Kimtamani | Mandailing |
+| Ciwidey   | Papua Wamena   | Flores     |
+| Toraja    | etc.           |            |
+### Metode
+|              | Hot | Cold | Milk |
+|--------------|-----|------|------|
+| V60          | 13k | 15k  | +2k  |
+| Vietnam Drip | 13k | 15k  | +2k  |
+| Tubruk       | 13k | 15k  | +2k  |
 
+# KATA KOPI 
+|                         | Hot | Cold |
+|-------------------------|-----|------|
+| Kopi Hitam (V60/Tubruk) | 5k  | 7k   |
+| Kopi Susu               | 8k  |      |
+| Es Kopi Susu            |     | 10k  |
+| Es Kopi Susu Gula Aren  |     | 15k  |
+| Kopi Susu Gula Aren     | 14k |      |
+
+## Espresso Based
 |  | Hot | Cold |
 |----------|-----|------|
 | Espresso (_Single_)   | 10k | -    |
@@ -11,7 +35,6 @@
 | Ice Cream Coffee / Affogato   | - | 15k    |
 
 ## Non Coffee
-
 |              | Hot | Cold |
 |--------------|-----|------|
 | Teh Manis    | 6k  | 7k   |
@@ -25,7 +48,6 @@
 | Velvet Latte | 14k | 16k  |
 
 ## Food / Snacks / Makanan
-
 | Nasi Goreng                                         | 12k |
 |-----------------------------------------------------|-----|
 | Indomie (rebus/goreng)                              | 10k |
