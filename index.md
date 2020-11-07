@@ -23,6 +23,7 @@ Full wash, semi wash, natural, honey, wine.
 | Vietnam Drip | 13k | 15k  | +2k  |
 | Tubruk       | 13k | 15k  | +2k  |
 
+<hr>
 
 # KATA KOPI
 
@@ -34,6 +35,7 @@ Full wash, semi wash, natural, honey, wine.
 | Es Kopi Susu Gula Aren  |     | 15k  |
 | Kopi Susu Gula Aren     | 14k |      |
 
+<hr>
 
 ## Espresso Based
 
@@ -47,6 +49,7 @@ Full wash, semi wash, natural, honey, wine.
 | Long Black   | 11k | 13k    |
 | Ice Cream Coffee / Affogato   |  | 15k    |
 
+<hr>
 
 ## Non Coffee
 
@@ -62,6 +65,7 @@ Full wash, semi wash, natural, honey, wine.
 | Choco Latte  | 12k | 14k  |
 | Velvet Latte | 14k | 16k  |
 
+<hr>
 
 ## Food / Snacks / Makanan
 
@@ -78,7 +82,9 @@ Full wash, semi wash, natural, honey, wine.
 | coklat, srikaya, kacang, stroberry, blueberry, keju | 8k  |
 | coklat + keju                                       | 10k |
 | selai double                                        | 10k |
+
 <hr>
+
 ### Jam buka:
 Senin - Sabtu: buka 09.00, tutup 23.00<br>
 Minggu: buka 16.00, tutup 23.00
