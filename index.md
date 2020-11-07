@@ -1,12 +1,15 @@
 # Single Origin
+
 ### Process: 
 Full wash, semi wash, natural, honey, wine
+
 ### Origin / Asal:
 | Aceh Gayo | Kerinci        | Arjuno     |
 |-----------|----------------|------------|
 | Lintong   | Bali Kimtamani | Mandailing |
 | Ciwidey   | Papua Wamena   | Flores     |
 | Toraja    | etc.           |            |
+
 ### Metode
 |              | Hot | Cold | Milk |
 |--------------|-----|------|------|
