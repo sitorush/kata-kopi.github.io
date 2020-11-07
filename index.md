@@ -23,9 +23,9 @@ Full wash, semi wash, natural, honey, wine.
 | Vietnam Drip | 13k | 15k  | +2k  |
 | Tubruk       | 13k | 15k  | +2k  |
 
-<hr>
-
 # KATA KOPI
+
+<hr>
 
 |                         | Hot | Cold |
 |-------------------------|-----|------|
