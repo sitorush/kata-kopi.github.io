@@ -1,4 +1,6 @@
-# Single Origin
+# Menu
+
+## Single Origin
 
 ### Process:
 Full wash, semi wash, natural, honey, wine.
@@ -35,13 +37,13 @@ Full wash, semi wash, natural, honey, wine.
 
 |  | Hot | Cold |
 |----------|-----|------|
-| Espresso (_Single_)   | 10k | -    |
-| Espresso (_Double_)   | 12k | -    |
+| Espresso (_Single_)   | 10k |     |
+| Espresso (_Double_)   | 12k |     |
 | Cappuccino   | 14k | 16k    |
 | Caffe Latte   | 14k | 16k    |
 | Americano   | 14k | 16k    |
 | Long Black   | 11k | 13k    |
-| Ice Cream Coffee / Affogato   | - | 15k    |
+| Ice Cream Coffee / Affogato   |  | 15k    |
 
 
 ## Non Coffee
