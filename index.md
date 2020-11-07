@@ -74,3 +74,5 @@ Full wash, semi wash, natural, honey, wine.
 | coklat, srikaya, kacang, stroberry, blueberry, keju | 8k  |
 | coklat + keju                                       | 10k |
 | selai double                                        | 10k |
+
+<address>Jl Hang Tuah (20m dari Bank BNI) Kel. Duri Barat Kec. Mandau - Duri Riau</address>
