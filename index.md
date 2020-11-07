@@ -1,23 +1,23 @@
 # Single Origin
 
-### Process: 
+### Process:
 Full wash, semi wash, natural, honey, wine.
 
-### Origin / Asal: 
+### Origin / Asal:
 | Aceh Gayo | Kerinci        | Arjuno     |
 |-----------|----------------|------------|
 | Lintong   | Bali Kimtamani | Mandailing |
 | Ciwidey   | Papua Wamena   | Flores     |
 | Toraja    | etc.           |            |
 
-### Metode
+### Metode:
 |              | Hot | Cold | Milk |
 |--------------|-----|------|------|
 | V60          | 13k | 15k  | +2k  |
 | Vietnam Drip | 13k | 15k  | +2k  |
 | Tubruk       | 13k | 15k  | +2k  |
 
-# KATA KOPI 
+# KATA KOPI
 |                         | Hot | Cold |
 |-------------------------|-----|------|
 | Kopi Hitam (V60/Tubruk) | 5k  | 7k   |
