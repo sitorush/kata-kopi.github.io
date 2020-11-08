@@ -1,0 +1,82 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-size: 16px;
+}
+
+.four-cols {
+  tr {
+    td:first-child, th:first-child {
+      width: 55%;
+      text-align: left;
+    }
+    td, th {
+      width: 15%;
+      text-align: center;
+    }
+  }
+}
+
+.three-cols {
+  tr {
+    td:first-child, th:first-child {
+      width: 70%;
+      text-align: left;
+    }
+    td, th {
+      width: 15%;
+      text-align: center;
+    }
+  }
+}
+
+.two-cols {
+  tr {
+    td:first-child, th:first-child {
+      width: 85%;
+      text-align: left;
+    }
+    td, th {
+      width: 15%;
+      text-align: center;
+    }
+  }
+}
+
+.origin-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-left: 20px;
+
+  li {
+    flex: 1 0 50%;
+    @media (min-width: 800px) {
+      flex-basis: 33%;
+    }
+  }
+}
+
+section {
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 0;
+
+  address {
+    margin-top: 60px;
+  }
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+
