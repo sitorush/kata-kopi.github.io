@@ -75,17 +75,17 @@ Full wash, semi wash, natural, honey, wine.
     <tr>
       <td>Es Kopi Susu</td>
       <td>&nbsp;</td>
-      <td>10k</td>
+      <td>13k</td>
     </tr>
     <tr>
       <td>Es Kopi Susu Gula Aren</td>
       <td>&nbsp;</td>
-      <td>15k</td>
+      <td>16k</td>
     </tr>
     <tr>
       <td>Kopi Susu Gula Aren</td>
       <td>14k</td>
-      <td>&nbsp;</td>
+      <td>16k</td>
     </tr>
   </tbody>
 </table>
@@ -123,8 +123,8 @@ Full wash, semi wash, natural, honey, wine.
     </tr>
     <tr>
       <td>Americano</td>
-      <td>14k</td>
-      <td>16k</td>
+      <td>11k</td>
+      <td>13k</td>
     </tr>
     <tr>
       <td>Long Black</td>
