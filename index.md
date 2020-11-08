@@ -78,11 +78,6 @@ Full wash, semi wash, natural, honey, wine.
       <td>13k</td>
     </tr>
     <tr>
-      <td>Es Kopi Susu Gula Aren</td>
-      <td>&nbsp;</td>
-      <td>16k</td>
-    </tr>
-    <tr>
       <td>Kopi Susu Gula Aren</td>
       <td>14k</td>
       <td>16k</td>
